@@ -17,6 +17,8 @@
 # This script only works for IPv4 currently and it doesn't check if the
 # returned text as IPv4 address.
 #
+# Gist  : https://gist.github.com/livibetter/9041330
+# Blog  : http://blog.yjl.im/2014/02/getting-ip-address.html
 # GitHub: https://github.com/livibetter
 
 RETR_CMD='curl -s -o -'
