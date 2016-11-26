@@ -59,7 +59,7 @@ gmip_ip_api() {
 
 gmip_ip_appspot() {
   # also work with just HTTP
-  $RETR_CMD https://ip.appspot.com
+  $RETR_CMD https://ipv4.appspot.com
 }
 
 gmip_ipinfo_io() {
