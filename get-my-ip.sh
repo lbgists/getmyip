@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # This is a script of collection of all sorts of remote/outgoing IP address
 # retrievals.
 #

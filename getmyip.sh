@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Getting IP address in Bash and on Linux
 # Written by Yu-Jie Lin
 # Public Domain or UNLICENSE
